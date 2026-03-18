@@ -1,0 +1,261 @@
+{
+  "name": "The Journey",
+  "menuBackgroundImage": "https://static.wixstatic.com/media/f62c35_651fdf3f0bde46dd8948b73855a089bc~mv2.png",
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "faction",
+      "class"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Classic"
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "3",
+        "drawNewHand": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "Initiative",
+        "drawPerTurn": "3"
+      },
+      "tokens": [
+        {
+          "name": "Initiative",
+          "image": "",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        "1"
+      ],
+      "sections": {
+        "customSections": [
+          "Adv_1",
+          "Adv_2",
+          "Adv_3",
+          "eq_1",
+          "eq_2",
+          "eq_3",
+          "hidden"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Adv_1",
+                  "style": false
+                },
+                {
+                  "section": "eq_1"
+                },
+                {
+                  "section": "Deck",
+                  "style": ""
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "content": [
+                {
+                  "section": "Adv_2",
+                  "style": false
+                },
+                {
+                  "section": "eq_2",
+                  "isSymetricalForOpponents": true,
+                  "style": false
+                },
+                {
+                  "section": "Discard",
+                  "style": false
+                }
+              ],
+              "style": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Adv_3",
+                  "style": false
+                },
+                {
+                  "section": "eq_3",
+                  "style": false
+                },
+                {
+                  "section": "Exile",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "hidden",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Deck"
+        ],
+        "autoPlayFromHand": {
+          "": ""
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Adv_2": {
+            "title": "Adv_2",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Adventurer 2",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Adv_3": {
+            "title": "Adv_3",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Adventurer 3",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Adv_1": {
+            "title": "Adv_1",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Adventurer 1",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "eq_1": {
+            "title": "eq_1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Equipment/Enchantments",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "eq_2": {
+            "title": "eq_2",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Equipment/Enchantments",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "eq_3": {
+            "title": "eq_3",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Equipment/Enchantments",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "hidden": {
+            "title": "hidden",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Hidden Abilities",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      },
+      "defaultNotes": "",
+      "hideFacedDownCards": false
+    }
+  },
+  "defaultRessources": {
+    "backgrounds": [
+      "https://static.wixstatic.com/media/f62c35_651fdf3f0bde46dd8948b73855a089bc~mv2.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cards": {
+    "dataUrl": "https://github.com/Jackson20bill/digital-journey-tcg-cards/blob/main/TheJourneyCardlistBraveExodus.json",
+    "cardBack": "https://static.wixstatic.com/media/f62c35_4d01c0c9149d4fdf8b678efdaab75a84~mv2.png"
+  }
+}
