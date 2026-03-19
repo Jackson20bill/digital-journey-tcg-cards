@@ -192,7 +192,7 @@
   },
   "customHelp": "",
   "cards": {
-    "dataUrl": "https://jackson20bill.github.io/digital-journey-tcg-cards/JourneyCards.json",
+    "dataUrl": "https://jackson20bill.github.io/digital-journey-tcg-cards/CardListBex.json",
     "cardBack": "https://static.wixstatic.com/media/f62c35_4d01c0c9149d4fdf8b678efdaab75a84~mv2.png"
   }
 }
