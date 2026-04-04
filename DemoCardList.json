@@ -1,0 +1,1886 @@
+{
+  "Abandon Plans": {
+    "id": "Abandon Plans",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abandon Plans",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_b5718499563d480cb9a3dfafc8467409~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_b5718499563d480cb9a3dfafc8467409~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abandon Plans",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Faction": "Augmentor"
+  },
+  "Adrenaline": {
+    "id": "Adrenaline",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Adrenaline",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_174976bdfa5c4b43ab8dcaa0f92eacac~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_174976bdfa5c4b43ab8dcaa0f92eacac~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adrenaline",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Gem": "Quick",
+    "Faction": "Augmentor",
+    "Class": "Strategist"
+  },
+  "Akmir, Rust Blade": {
+    "id": "Akmir, Rust Blade",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akmir, Rust Blade",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_df3081298bc14e79a7d8acacfe7d3a14~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_df3081298bc14e79a7d8acacfe7d3a14~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akmir, Rust Blade",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "1",
+    "Defense": "1",
+    "Magic Defense": "",
+    "Agility": "7",
+    "Max HP": "11",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Warrior",
+    "Class": "Rogue"
+  },
+  "Angel's Light": {
+    "id": "Angel's Light",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angel's Light",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_985d412ff5854807b94add9d62594ad7~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_985d412ff5854807b94add9d62594ad7~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angel's Light",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": true,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": "Exorcist"
+  },
+  "Arcane Wardstones": {
+    "id": "Arcane Wardstones",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arcane Wardstones",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_cec217f0a01e4c77999df2c04abfdd11~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_cec217f0a01e4c77999df2c04abfdd11~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcane Wardstones",
+    "type": "Equipment",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": 0
+  },
+  "Protus, Goblin Scout": {
+    "id": "Protus, Goblin Scout",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protus, Goblin Scout",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_fb04252142434eed97e63e3dbaef3965~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_fb04252142434eed97e63e3dbaef3965~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protus, Goblin Scout",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "2",
+    "Defense": 0,
+    "Magic Defense": "1",
+    "Agility": "6",
+    "Max HP": "12",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Warrior",
+    "Class": "Berserker"
+  },
+  "Gurok, Omen Breaker": {
+    "id": "Gurok, Omen Breaker",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gurok, Omen Breaker",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_49cfca1fbf994f16933d8c2e6a99a8d6~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_49cfca1fbf994f16933d8c2e6a99a8d6~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gurok, Omen Breaker",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "1",
+    "Defense": "1",
+    "Magic Defense": 0,
+    "Agility": "4",
+    "Max HP": "14",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "4",
+    "Faction": "Warrior",
+    "Class": "Berserker"
+  },
+  "Warren, Bandit Chief": {
+    "id": "Warren, Bandit Chief",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warren, Bandit Chief",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_e45510acbc8b4077a3414d91c7406ae6~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_e45510acbc8b4077a3414d91c7406ae6~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warren, Bandit Chief",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "1",
+    "Defense": "1",
+    "Magic Defense": 0,
+    "Agility": "6",
+    "Max HP": "12",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Warrior",
+    "Class": "Rogue"
+  },
+  "Edge of Anger": {
+    "id": "Edge of Anger",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edge of Anger",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_a22eec2f51064608b0634371f1a74c16~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_a22eec2f51064608b0634371f1a74c16~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edge of Anger",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Quick",
+    "Lasting": false,
+    "Enhancement": true,
+    "Special": 0,
+    "Faction": "Warrior"
+  },
+  "Powerslash": {
+    "id": "Powerslash",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Powerslash",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_63f26c50674d48ce848f2c4d196be499~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_63f26c50674d48ce848f2c4d196be499~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerslash",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior"
+  },
+  "Phaseblade": {
+    "id": "Phaseblade",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phaseblade",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_bc391cbfd2874fe481c22050b2f3f866~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_bc391cbfd2874fe481c22050b2f3f866~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phaseblade",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Quick",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior"
+  },
+  "Surge": {
+    "id": "Surge",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surge",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_66ec0dd21da64063818d8a5813fb567a~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_66ec0dd21da64063818d8a5813fb567a~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surge",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Quick",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior"
+  },
+  "Roundhouse": {
+    "id": "Roundhouse",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roundhouse",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_bb752f57782c4ccf86338a552df3b5c5~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_bb752f57782c4ccf86338a552df3b5c5~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roundhouse",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Berserker"
+  },
+  "Dual Strike": {
+    "id": "Dual Strike",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dual Strike",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_f6f362d41272492490a4a656ca05669e~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_f6f362d41272492490a4a656ca05669e~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dual Strike",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Quick",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Berserker"
+  },
+  "Dark Bond": {
+    "id": "Dark Bond",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Bond",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_5361a8e9673446f9a44b9e24b1383c5e~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_5361a8e9673446f9a44b9e24b1383c5e~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Bond",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": true,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Berserker"
+  },
+  "Doppelganger": {
+    "id": "Doppelganger",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doppelganger",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_1f3df457e6f34724a7a4470353dfa43a~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_1f3df457e6f34724a7a4470353dfa43a~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doppelganger",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": true,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Rogue"
+  },
+  "Thieve's Door": {
+    "id": "Thieve's Door",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thieve's Door",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_2357f6a071f4417bbf99a66b7f295383~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_2357f6a071f4417bbf99a66b7f295383~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thieve's Door",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Hidden",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Rogue"
+  },
+  "Helbrin, Dwarven Mage": {
+    "id": "Helbrin, Dwarven Mage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helbrin, Dwarven Mage",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_5a1238bdbcaa430cb53138925ecbd32a~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_5a1238bdbcaa430cb53138925ecbd32a~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helbrin, Dwarven Mage",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": 0,
+    "Physical Attack": "",
+    "Defense": "1",
+    "Magic Defense": 0,
+    "Agility": "3",
+    "Max HP": "12",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Edict, Young Wizard": {
+    "id": "Edict, Young Wizard",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edict, Young Wizard",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_e81cf130f1b44f4789b22eb0e892d57e~mv2.png/v1/fit/w_821,h_813,q_90,enc_avif,quality_auto/f62c35_e81cf130f1b44f4789b22eb0e892d57e~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edict, Young Wizard",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "1",
+    "Physical Attack": "",
+    "Defense": 0,
+    "Magic Defense": "1",
+    "Agility": "4",
+    "Max HP": "12",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": 0,
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Vetro, The Astonisher": {
+    "id": "Vetro, The Astonisher",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vetro, The Astonisher",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_70fdd5a496254668ab11fd2d945196db~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_70fdd5a496254668ab11fd2d945196db~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vetro, The Astonisher",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "1",
+    "Magic Defense": 0,
+    "Agility": "5",
+    "Max HP": "12",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": 0,
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Virali, Infinite Explorer": {
+    "id": "Virali, Infinite Explorer",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Virali, Infinite Explorer",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_2379e7b5b3bc4c3ebfb2a2942f9a6cc1~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_2379e7b5b3bc4c3ebfb2a2942f9a6cc1~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Virali, Infinite Explorer",
+    "type": "Adventurer",
+    "cost": "",
+    "Magic Attack": "1",
+    "Physical Attack": "",
+    "Defense": "1",
+    "Magic Defense": 0,
+    "Agility": "7",
+    "Max HP": "14",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "1",
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Zap": {
+    "id": "Zap",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zap",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_3063056660314205bbcd6ad77f84619b~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_3063056660314205bbcd6ad77f84619b~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zap",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": 0,
+    "Faction": "Mage"
+  },
+  "Magic Missile": {
+    "id": "Magic Missile",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magic Missile",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_9ae1a818251a48e7b89bdf564cb04c72~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_9ae1a818251a48e7b89bdf564cb04c72~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magic Missile",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": 0,
+    "Faction": "Mage"
+  },
+  "Mind Link": {
+    "id": "Mind Link",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mind Link",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_5d77e011e43a45caafefb50df071ad41~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_5d77e011e43a45caafefb50df071ad41~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Link",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Quick",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage"
+  },
+  "Flame Shot": {
+    "id": "Flame Shot",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flame Shot",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_071736cfa97d4c35a24acc20b1be0df5~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_071736cfa97d4c35a24acc20b1be0df5~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flame Shot",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Dark mage"
+  },
+  "Wrath": {
+    "id": "Wrath",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wrath",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_08b8cb8ec406497a99d422931c45a009~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_08b8cb8ec406497a99d422931c45a009~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wrath",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Thunder Strike": {
+    "id": "Thunder Strike",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thunder Strike",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_341e94d53e424be5b9fe2ea734b7477f~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_341e94d53e424be5b9fe2ea734b7477f~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thunder Strike",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Quaking Circle": {
+    "id": "Quaking Circle",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quaking Circle",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_50fed39fb124456fbe87b978bd6bbb01~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_50fed39fb124456fbe87b978bd6bbb01~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quaking Circle",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Hidden",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Frost": {
+    "id": "Frost",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frost",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_008a69fe1b3743a5aee8bbe8c009dac2~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_008a69fe1b3743a5aee8bbe8c009dac2~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frost",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Stone Barrage": {
+    "id": "Stone Barrage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stone Barrage",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_89370ce0e0a14d978c48d91244187c86~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_89370ce0e0a14d978c48d91244187c86~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stone Barrage",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Dark Mage"
+  },
+  "Burning Ray": {
+    "id": "Burning Ray",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burning Ray",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_cce631095cb041cab9e9720aa4c4e69b~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_cce631095cb041cab9e9720aa4c4e69b~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burning Ray",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Soulcharge": {
+    "id": "Soulcharge",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soulcharge",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_96141f2eb0c64b8c913e3afcb20d367a~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_96141f2eb0c64b8c913e3afcb20d367a~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soulcharge",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Shadow Lance": {
+    "id": "Shadow Lance",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Lance",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_0f50a3a6215e48a69cf4de1dbee1c883~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_0f50a3a6215e48a69cf4de1dbee1c883~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Lance",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Discharge": {
+    "id": "Discharge",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Discharge",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_98e51c9a935b42d1abb16c99050f7265~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_98e51c9a935b42d1abb16c99050f7265~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Discharge",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Momentum": {
+    "id": "Momentum",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Momentum",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_e3cc8315b00743369e82f0b801266b57~mv2.png/v1/fit/w_821,h_812,q_90,enc_avif,quality_auto/f62c35_e3cc8315b00743369e82f0b801266b57~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Momentum",
+    "type": "Ability",
+    "cost": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Agility": "",
+    "Max HP": "",
+    "Gem": "Full",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Mage",
+    "Class": "Spellweaver"
+  },
+  "Kodi, The Strategist": {
+    "id": "Kodi, The Strategist",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kodi, The Strategist",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_de53729943ac4a1f9ae60b544574257e~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_de53729943ac4a1f9ae60b544574257e~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kodi, The Strategist",
+    "type": "Adventurer",
+    "cost": "",
+    "Agility": "6",
+    "Gem": "",
+    "Magic Attack": "1",
+    "Physical Attack": "",
+    "Defense": "0",
+    "Magic Defense": "0",
+    "Max HP": "10",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Augmentor",
+    "Class": "Strategist"
+  },
+  "Talia, The Swaying Sylph": {
+    "id": "Talia, The Swaying Sylph",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Talia, The Swaying Sylph",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_f6c5ba891fae4da4adc599d960abdcbc~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_f6c5ba891fae4da4adc599d960abdcbc~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Talia, The Swaying Sylph",
+    "type": "Adventurer",
+    "cost": "",
+    "Agility": "5",
+    "Gem": "",
+    "Magic Attack": "1",
+    "Physical Attack": "",
+    "Defense": "0",
+    "Magic Defense": "0",
+    "Max HP": "10",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Augmentor",
+    "Class": "Bard"
+  },
+  "Mobilize": {
+    "id": "Mobilize",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mobilize",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_f24f9c3a1115470a833aaf6408bec7e5~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_f24f9c3a1115470a833aaf6408bec7e5~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mobilize",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": ""
+  },
+  "Gravity": {
+    "id": "Gravity",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravity",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_5b8e6427d54743a995dca99a270c5f31~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_5b8e6427d54743a995dca99a270c5f31~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gravity",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": ""
+  },
+  "Stargazing": {
+    "id": "Stargazing",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stargazing",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_c6e63ccfd1dd4ab78543dc3cddb0c05d~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_c6e63ccfd1dd4ab78543dc3cddb0c05d~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stargazing",
+    "type": "Ability",
+    "cost": 0,
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": ""
+  },
+  "Oddstone Guard": {
+    "id": "Oddstone Guard",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oddstone Guard",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_856a418bf21d46b5ae18929316dacd91~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_856a418bf21d46b5ae18929316dacd91~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oddstone Guard",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Strategist"
+  },
+  "Sabotage": {
+    "id": "Sabotage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabotage",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_9a5549f8996d4d41aa31b7d4a02454c0~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_9a5549f8996d4d41aa31b7d4a02454c0~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabotage",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Strategist"
+  },
+  "Soundwave": {
+    "id": "Soundwave",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soundwave",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_9d34d59c52864c829f27be4135f14292~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_9d34d59c52864c829f27be4135f14292~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soundwave",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Bard"
+  },
+  "Lilypad Tempo": {
+    "id": "Lilypad Tempo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilypad Tempo",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_67a3609852c04ac49391f1c702005ce7~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_67a3609852c04ac49391f1c702005ce7~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilypad Tempo",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Bard"
+  },
+  "Peaceful Melody": {
+    "id": "Peaceful Melody",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peaceful Melody",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_b1a18015731b47fc9890cc971ea0412c~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_b1a18015731b47fc9890cc971ea0412c~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peaceful Melody",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Bard"
+  },
+  "Jasper, Spirit Scholar": {
+    "id": "Jasper, Spirit Scholar",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jasper, Spirit Scholar",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_e3942db92dde4208848521fbc88086cb~mv2.png/v1/fit/w_821,h_805,q_90,enc_avif,quality_auto/f62c35_e3942db92dde4208848521fbc88086cb~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jasper, Spirit Scholar",
+    "type": "Adventurer",
+    "cost": "",
+    "Agility": "6",
+    "Gem": "",
+    "Magic Attack": "1",
+    "Physical Attack": "",
+    "Defense": "0",
+    "Magic Defense": "0",
+    "Max HP": "10",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "1",
+    "Faction": "Divine",
+    "Class": "Exorcist"
+  },
+  "Gador, The Invigorator": {
+    "id": "Gador, The Invigorator",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gador, The Invigorator",
+        "type": "Adventurer",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_7e74455342464eb6be374a730cce3b9f~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_7e74455342464eb6be374a730cce3b9f~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gador, The Invigorator",
+    "type": "Adventurer",
+    "cost": "",
+    "Agility": "4",
+    "Gem": "",
+    "Magic Attack": "1",
+    "Physical Attack": "",
+    "Defense": "0",
+    "Magic Defense": "0",
+    "Max HP": "12",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "2",
+    "Faction": "Divine",
+    "Class": "Ascendant"
+  },
+  "Vivid Visions": {
+    "id": "Vivid Visions",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vivid Visions",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_38ef912c316546afb11aa32ec489b0b4~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_38ef912c316546afb11aa32ec489b0b4~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vivid Visions",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": ""
+  },
+  "Distract": {
+    "id": "Distract",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distract",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_8df9459a55414a8f85ab1da4d8cda081~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_8df9459a55414a8f85ab1da4d8cda081~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distract",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": ""
+  },
+  "Light Guard": {
+    "id": "Light Guard",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Light Guard",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_fc1d9487037340539433911a02c2b812~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_fc1d9487037340539433911a02c2b812~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Light Guard",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": ""
+  },
+  "Merchant's Curse": {
+    "id": "Merchant's Curse",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Merchant's Curse",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_d6e24c98b1c44b2d8e44ffe11fe73461~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_d6e24c98b1c44b2d8e44ffe11fe73461~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Merchant's Curse",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Hidden",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": "Exorcist"
+  },
+  "Shine": {
+    "id": "Shine",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shine",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_7726839ade78478a9fb59900e73a0301~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_7726839ade78478a9fb59900e73a0301~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shine",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": "Ascendant"
+  },
+  "Divine Shroud": {
+    "id": "Divine Shroud",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Divine Shroud",
+        "type": "Ability",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_041e9eb52ce84477afe694ee19aa0507~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_041e9eb52ce84477afe694ee19aa0507~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Divine Shroud",
+    "type": "Ability",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Hidden",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": "Ascendant"
+  },
+  "Dissolver": {
+    "id": "Dissolver",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dissolver",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_f8757822afba458fbe530150b6d03875~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_f8757822afba458fbe530150b6d03875~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dissolver",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Battle Standard": {
+    "id": "Battle Standard",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle Standard",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_6f837b8f4655416684e25ab9cfac8406~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_6f837b8f4655416684e25ab9cfac8406~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battle Standard",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": true,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Hexing Idol": {
+    "id": "Hexing Idol",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hexing Idol",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_5efe5684cf9442079931c3ca41277cb9~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_5efe5684cf9442079931c3ca41277cb9~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hexing Idol",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Frozen Feather": {
+    "id": "Frozen Feather",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frozen Feather",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_08b7ecfb4aff4e72ae97ebc68ea43d98~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_08b7ecfb4aff4e72ae97ebc68ea43d98~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frozen Feather",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Wind Bomb": {
+    "id": "Wind Bomb",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wind Bomb",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_e92602f5ba5b4078a10047467f899c03~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_e92602f5ba5b4078a10047467f899c03~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wind Bomb",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Full",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Slimebuff": {
+    "id": "Slimebuff",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Slimebuff",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_a4dc7a26e4c142d2839fac8c3cc59e37~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_a4dc7a26e4c142d2839fac8c3cc59e37~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slimebuff",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Howling Seedpod": {
+    "id": "Howling Seedpod",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Howling Seedpod",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_7ceacb334d094eb299dfab358d956fd7~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_7ceacb334d094eb299dfab358d956fd7~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Howling Seedpod",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Potion": {
+    "id": "Potion",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potion",
+        "type": "Item",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_2ab8cb1f4b304743b010216fd76cf59c~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_2ab8cb1f4b304743b010216fd76cf59c~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Potion",
+    "type": "Item",
+    "cost": "",
+    "Agility": "",
+    "Gem": "Quick",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Warrior's Kilt": {
+    "id": "Warrior's Kilt",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warrior's Kilt",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_5eb397adb854475c9fd40d9a16fe675f~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_5eb397adb854475c9fd40d9a16fe675f~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warrior's Kilt",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Golden Lute": {
+    "id": "Golden Lute",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golden Lute",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_2a95d8ff1c3b43ab9d0d64f1465072f7~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_2a95d8ff1c3b43ab9d0d64f1465072f7~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golden Lute",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Bard"
+  },
+  "Junk Armor": {
+    "id": "Junk Armor",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Junk Armor",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_32a4e08c95e6442e8c591326b712ab0c~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_32a4e08c95e6442e8c591326b712ab0c~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Junk Armor",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "",
+    "Class": ""
+  },
+  "Thieves Daggers": {
+    "id": "Thieves Daggers",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thieves Daggers",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_b98642c2423d46669405336e284444fe~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_b98642c2423d46669405336e284444fe~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thieves Daggers",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Rogue"
+  },
+  "Spirit Stone": {
+    "id": "Spirit Stone",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spirit Stone",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_2796b1ddda3942d18178a53c00c9340a~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_2796b1ddda3942d18178a53c00c9340a~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spirit Stone",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Divine",
+    "Class": "Exorcist"
+  },
+  "Cybersoul Axe": {
+    "id": "Cybersoul Axe",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cybersoul Axe",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_75ee986d9dcf45d19ad1803c5e6523b3~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_75ee986d9dcf45d19ad1803c5e6523b3~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cybersoul Axe",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Augmentor",
+    "Class": "Strategist"
+  },
+  "Shackles of Pain": {
+    "id": "Shackles of Pain",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shackles of Pain",
+        "type": "Equipment",
+        "cost": "",
+        "image": "https://static.wixstatic.com/media/f62c35_1d96c8e313fd485592fa042244c5a9be~mv2.png/v1/fit/w_821,h_816,q_90,enc_avif,quality_auto/f62c35_1d96c8e313fd485592fa042244c5a9be~mv2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shackles of Pain",
+    "type": "Equipment",
+    "cost": "",
+    "Agility": "",
+    "Gem": "",
+    "Magic Attack": "",
+    "Physical Attack": "",
+    "Defense": "",
+    "Magic Defense": "",
+    "Max HP": "",
+    "Lasting": false,
+    "Enhancement": false,
+    "Special": "",
+    "Faction": "Warrior",
+    "Class": "Berserker"
+  }
+}
